@@ -1,0 +1,14 @@
+annoy
+nltk
+gensim==3.2.0
+scikit-learn
+linecache_light
+coloredlogs
+scipy==1.10.1
+numpy
+matplotlib
+tqdm
+distance
+langdetect
+scikit-learn
+pyemd
